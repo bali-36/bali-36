@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Devdas</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Bilal Badar</h1>
 <h3 align="center">A passionate Cyber Security Student from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3vda5&label=Profile%20views&color=0e75b6&style=flat" alt="d3vda5" /> </p>
