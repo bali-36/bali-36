@@ -1,15 +1,30 @@
-<h1 align="center">👋 Hi, I'm Muhammad Bilal Badar</h1>
-<h3 align="center">A passionate Cyber Security Student from Pakistan</h3>
+<h1 align="center">Hi, I'm Muhammad Bilal Badar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3vda5&label=Profile%20views&color=0e75b6&style=flat" alt="d3vda5" /> </p>
+<p align="center">
+  <b>A passionate Cyber Security Student from Pakistan</b>
+</p>
 
-👀 Intrigued by the fusion of design and security.
+<p align="center">
+  <a href="mailto:badarmuhammadbilal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-badarmuhammadbilal@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-bilal-badar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Bilal%20Badar-0077B?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-2ea44f?style=flat"/>
+</p>
 
-🌱 Always evolving, always learning.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3vda5&label=Profile%20views&color=0e75b6&style=flat" alt="bali-36" /> </p>
 
-💞️ Open to innovative collaborations.
+Intrigued by the fusion of design and security.
 
-📫 Contact me: d3vdas36@gmail.com.
+Always evolving, always learning.
+
+Open to innovative collaborations.
+
+Contact me: badarmuhammadbilal@gmail.com.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-bilal-badar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-bilal-badar" height="30" width="40" /></a>
