@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🧑‍💻 Who I Am
+##  Who I Am
 
 ```python
 Bilal = {
@@ -27,7 +27,7 @@ Bilal = {
         "React.js", "Node.js", "MySQL", "Git", "MATLAB", "Linux",
         "Metasploit", "Nmap", "Wireshark", "Docker", "Scapy"
     ],
-    Technical Projects: [
+    Featured Projects: [
         "Linux-SysMon", "VPN-Server-Client", "VulnSleuth",
         "UPSA (Unified Privacy & Security Assistant)", "RsA_tOoL", "digital_shredder", "Network-Sniffer" 
     ],
@@ -38,9 +38,9 @@ Bilal = {
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔍 Linux-SysMon
+### Linux-SysMon
 A real-time Linux system call monitoring tool with security alerts — provides CLI visualization of process activity, detects malware/APT patterns, and supports whitelisting and log exports.
 
 | Layer | Technology |
@@ -54,7 +54,7 @@ A real-time Linux system call monitoring tool with security alerts — provides 
 
 ---
 
-### 🔐 VPN-Server-Client
+### VPN-Server-Client
 A secure VPN tunnel designed and implemented in Python to encrypt communication between client and server.
 
 | Layer | Technology |
@@ -67,7 +67,7 @@ A secure VPN tunnel designed and implemented in Python to encrypt communication 
 
 ---
 
-### 🛡️ VulnSleuth
+### VulnSleuth
 A Python-based auditing tool with a web dashboard that automates the identification of misconfigured services and outdated software across target networks.
 
 | Layer | Technology |
@@ -80,7 +80,7 @@ A Python-based auditing tool with a web dashboard that automates the identificat
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -111,13 +111,13 @@ A Python-based auditing tool with a web dashboard that automates the identificat
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bali-36&theme=nord&border=003153&ring=003153&fire=003153&currStreakLabel=003153" width="80%" />
+<img src="https://streak-stats.demolab.com?user=bali-36&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="80%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bali-36&theme=nord&color=003153&line=003153&point=003153&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bali-36&theme=nord&color=7dd3fc&line=7dd3fc&point=7dd3fc&hide_border=true" width="95%" />
 
 </div>
 
