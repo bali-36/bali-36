@@ -1,35 +1,145 @@
-<h1 align="center">Hi, I'm Muhammad Bilal Badar</h1>
+<div align="center">
 
-<p align="center">
-  <b>A passionate Cyber Security Student from Pakistan</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=003153&height=220&section=header&text=Muhammad%20Bilal%20Badar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="mailto:badarmuhammadbilal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-badarmuhammadbilal@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-bilal-badar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Bilal%20Badar-0077B?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-2ea44f?style=flat"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=003153&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Offensive+Security+%26+CTI+Enthusiast;Building+Linux-SysMon+%7C+VPN-Server-Client+%7C+VulnSleuth;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3vda5&label=Profile%20views&color=0e75b6&style=flat" alt="bali-36" /> </p>
+<br/>
 
-Intrigued by the fusion of design and security.
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-003153?style=for-the-badge&logo=briefcase&logoColor=white)
 
-Always evolving, always learning.
+<img src="https://komarev.com/ghpvc/?username=bali-36&color=003153&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/bali-36?label=Followers&style=flat-square&color=003153" />
 
-Open to innovative collaborations.
+</div>
 
-Contact me: badarmuhammadbilal@gmail.com.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-bilal-badar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-bilal-badar" height="30" width="40" /></a>
-<a href="https://medium.com/@d3vdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="devdas" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🧑‍💻 Who I Am
+
+```python
+Bilal = {
+    title: "Cyber Security Student",
+    stack: [
+        "Python", "C/C++", "Bash", "JavaScript", "HTML", "CSS",
+        "React.js", "Node.js", "MySQL", "Git", "MATLAB", "Linux",
+        "Metasploit", "Nmap", "Wireshark", "Docker", "Scapy"
+    ],
+    Technical Projects: [
+        "Linux-SysMon", "VPN-Server-Client", "VulnSleuth",
+        "UPSA (Unified Privacy & Security Assistant)", "RsA_tOoL", "digital_shredder", "Network-Sniffer" 
+    ],
+    Status: ["Building offensive security tooling & researching threat detection"],
+    Open To: ["Full-time roles, internships, and security research collaborations"]
+}
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🔍 Linux-SysMon
+A real-time Linux system call monitoring tool with security alerts — provides CLI visualization of process activity, detects malware/APT patterns, and supports whitelisting and log exports.
+
+| Layer | Technology |
+|---|---|
+| Core | Python |
+| System | Linux Syscalls |
+| Interface | CLI |
+| Security | Malware/APT Pattern Detection |
+
+🔗 Code: [github.com/bali-36/Linux-SysMon](https://github.com/bali-36/Linux-SysMon)
+
+---
+
+### 🔐 VPN-Server-Client
+A secure VPN tunnel designed and implemented in Python to encrypt communication between client and server.
+
+| Layer | Technology |
+|---|---|
+| Core | Python |
+| Security | Encryption / Secure Tunneling |
+| Network | Client-Server Architecture |
+
+🔗 Code: [github.com/bali-36/VPN-Server-Client](https://github.com/bali-36/VPN-Server-Client)
+
+---
+
+### 🛡️ VulnSleuth
+A Python-based auditing tool with a web dashboard that automates the identification of misconfigured services and outdated software across target networks.
+
+| Layer | Technology |
+|---|---|
+| Core | Python |
+| Interface | Web Dashboard |
+| Function | Vulnerability & Misconfiguration Auditing |
+
+🔗 Code: [github.com/bali-36/VulnSleuth](https://github.com/bali-36/VulnSleuth)
+
+<br/>
+
+## 🧰 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,bash,js,html,css" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+
+**Backend / Infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,git,docker,linux" />
+
+**AI / DB**
+
+<img src="https://skillicons.dev/icons?i=mysql,matlab" />
+
+**Dev / Security Tools**
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+
+**Cyber Security Tools**
+
+<img src="https://img.shields.io/badge/Metasploit%20Framework-003153?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-003153?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-003153?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Scapy-003153?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bali-36&theme=nord&border=003153&ring=003153&fire=003153&currStreakLabel=003153" width="80%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bali-36&theme=nord&color=003153&line=003153&point=003153&hide_border=true" width="95%" />
+
+</div>
+
+<br/>
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammad-bilal-badar">
+  <img src="https://img.shields.io/badge/LinkedIn-003153?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:badarmuhammadbilal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-003153?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://bali-36.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-003153?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://bali36.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-003153?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=003153&height=120&section=footer&animation=twinkling" width="100%"/>
